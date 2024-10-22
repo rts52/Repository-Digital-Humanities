@@ -1,8 +1,17 @@
 body{
  background-color: black;
  color: white; 
+  margin: 100px;
 }
+
 head{ 
 background-color: black; 
 color: white; 
+
+}
+
+img{
+    width: 500px;
+    color: black;
+    
 }
